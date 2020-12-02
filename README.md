@@ -13,9 +13,9 @@ Use the key words in optional functions to call the functions.
       To check the part of speech of each word.   
   **"sentence tokenize" :** sent_token()  
   **"stem" :** sent_stem()  
-  **"lemma" :** sent_lemma() 
+  **"lemma" :** sent_lemma()   
       To link words with similar meaning to one word. It does morphological analysis of the words.   
-  **"translate":** translate_input()  
+  **"translate":** translate_input()    
       To translate the English input into Chinese.  
   **"longest word definition" :** long_word_def()  
       To give the definition of the longest word in the input.  
