@@ -12,7 +12,9 @@ Use the key words in optional functions to call the functions.
   **"pos_tag":** POS_tag()  
       To check the part of speech of each word.   
   **"sentence tokenize" :** sent_token()  
-  **"stem" :** sent_stem()  
+      To tokenize sentences in the text by using nltk logic for future analysis.
+  **"stem" :** sent_stem()
+      To tokenize words in the text and to remove affix and get the stems of each words. In this way, we can save storage and avoid the situation of dealing with derivative words from a same original word.
   **"lemma" :** sent_lemma()   
       To link words with similar meaning to one word. It does morphological analysis of the words.   
   **"translate":** translate_input()    
