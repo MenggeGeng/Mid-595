@@ -21,5 +21,6 @@ Use the key words in optional functions to call the functions.
   **"sentiment analysis" :** sentiment_analysis()  
       To return sentiment analysis scores.  
   **"tree" :** gram_tree()  
+      To make a Tree and show the tag of each words.
   **"all" :** call all the above functions.  
   If the function name inputed is not in the optional list, "400 Bad request" will be returned.  
