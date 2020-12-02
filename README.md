@@ -10,11 +10,11 @@ Use the key words in optional functions to call the functions.
   **"appearance count":** word_appearance_count()  
       To count the number of times each word appears.  
   **"pos_tag":** POS_tag()  
-      To check the part of speech of each word.
+      To check the part of speech of each word.   
   **"sentence tokenize" :** sent_token()  
   **"stem" :** sent_stem()  
   **"lemma" :** sent_lemma() 
-      To link words with similar meaning to one word. It does morphological analysis of the words.
+      To link words with similar meaning to one word. It does morphological analysis of the words.   
   **"translate":** translate_input()  
       To translate the English input into Chinese.  
   **"longest word definition" :** long_word_def()  
